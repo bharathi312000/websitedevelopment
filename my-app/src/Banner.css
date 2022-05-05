@@ -1,0 +1,20 @@
+.center{
+    text-align: center;
+}
+.happy{
+    text-align: center;
+    padding: 50px;
+    background-color: #5c2e91;
+    
+}
+.sad{
+    /* background-color:chartreuse ; */
+    padding: 10px 25px;
+    font-size: 20px;
+    display: inline-block;
+    color: #fff;
+    background-color: orange;
+    line-height: 20px;
+    border-radius: 4px;
+    text-decoration: none;
+}
